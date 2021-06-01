@@ -8,7 +8,7 @@ locals {
 
 
 terraform {
-  source = "git::git@github.com:shrutisharma27/aws.git//RDS?ref=v0.4.0"
+  source = "git::git@github.com:shrutisharma27/infrastructure_module.git//RDS?ref=v0.4.0"
 }
 
 
